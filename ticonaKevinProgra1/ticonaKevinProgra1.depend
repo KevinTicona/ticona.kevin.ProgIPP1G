@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603146385 source:c:\users\keni_\desktop\ticonakevinparcialprogra1\ticonakevinprogra1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ePais.h"
+
+1603145287 c:\users\keni_\desktop\ticonakevinparcialprogra1\ticonakevinprogra1\epais.h
+
