@@ -33,10 +33,6 @@ int main()
     }
 
 
+return 0;
 
-/*void actualizarRecuperados(ePais* pais,int recuperadosDelDia){
-
-    for(int i = 0; i < recuperadosDelDia; i++){
-        pais.recuperados++;
-    }
-}*/
+}
